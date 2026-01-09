@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+Ashwagandha
 ---
 
 is a high-potency supplement derived from the root of the Ashwagandha plant (Withania somnifera), standardized to contain 5% withanolides, the active compounds responsible for its benefits. 
